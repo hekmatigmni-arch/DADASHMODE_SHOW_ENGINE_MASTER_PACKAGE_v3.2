@@ -1,0 +1,6 @@
+{
+  "name": "DADASHMODE SHOW ENGINE",
+  "description": "Professional YouTube competition production platform and live AI referee engine for Dadash Mode challenges.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
